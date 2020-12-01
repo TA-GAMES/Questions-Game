@@ -1,1 +1,3 @@
-<p dir='rtl' align='right'>מסיבה בחיפה</p>
+<p dir='rtl' align='right'>
+  #משחק השאלות
+</p>
